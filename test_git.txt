@@ -3,3 +3,4 @@ Hello, Git!
 Hello world!!!!!!
 Hello Cpp!
 # (c) 2017-2018
+Hello from clone!
